@@ -14,4 +14,5 @@ An AI-powered web app that analyzes whether a statement is realistic or unrealis
 - Streamlit
 
 ## Live Demo
-[Paste your Streamlit link here]
+https://reality-gap-detector-n4es8h7r6rpn3fdn6tjxkb.streamlit.app/
+
